@@ -24,4 +24,4 @@ The code automatically fixes potential issues such as times sign and letter x an
 
 # License
 
-[MIT](LICENSE)
+[MIT](LICENCE)
