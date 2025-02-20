@@ -20,8 +20,8 @@ Where the config file looks like this:
 }
 ```
 
-The code automatically fixes potential issues such as times sign and letter x and photo folder name anomolies.
+The code automatically fixes potential issues such as times sign × and letter x and photo folder name anomolies.
 
-# License
+# Licence
 
 [MIT](LICENCE)
