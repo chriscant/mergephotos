@@ -2,7 +2,7 @@
 
 Command line tool to find photo filenames and add into matching species list spreadsheet rows.
 
-This is used by for the Flora of Cumbria to add columns to a species list spreadsheet.
+This is used for the Flora of Cumbria to add columns to a species list spreadsheet.
 Two columns are added for each matching species photo:
 
 * the relative path to the photo filename
