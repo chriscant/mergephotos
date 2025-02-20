@@ -1,0 +1,17 @@
+{
+  "name": "mergephotos",
+  "version": "1.0.1",
+  "description": "Find photo filenames and add into matching specieslist spreadsheet rows",
+  "type": "module",
+  "exports": "./mergephotos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "standard": "standard mergephotos.js"
+  },
+  "author": "Chris Cant",
+  "license": "MIT",
+  "dependencies": {
+    "excel4node": "^1.8.2",
+    "exceljs": "^4.4.0"
+  }
+}
